@@ -1,10 +1,3 @@
-/*AT-MO PRODUCTION
-  Touch Sensor arduino
-  tolong jika menggunakan code ini
-  mohon masukan sumber seperti di bawah ini
-  "AT-MO PRODUCTION
-  EDIT BY OGI SINATRA"
-*/
 
 #define TouchSensor 6 // Pin Di gunakan untuk capactitive touch sensor
 
